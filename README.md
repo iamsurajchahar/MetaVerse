@@ -1,3 +1,6 @@
+🌐🚀A MetaNex represents an innovative and immersive digital platform that is at the forefront of the evolving virtual world. It serves as a gateway to explore and interact within a vast, interconnected virtual universe, offering a wide range of experiences, interactions, and creative opportunities. 🌐🚀🎮💫🌌
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
